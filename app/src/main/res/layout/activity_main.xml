@@ -70,36 +70,33 @@
         android:text="Sở thích của bạn:" />
 
     <CheckBox
-        android:id="@+id/checkBox"
+        android:id="@+id/cbXemPhim"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:checked="true"
         android:text="Xem phim" />
 
     <CheckBox
-        android:id="@+id/checkBox2"
+        android:id="@+id/cbNgheNhac"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Nghe nhạc" />
 
     <CheckBox
-        android:id="@+id/checkBox3"
+        android:id="@+id/cbCafe"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:checked="true"
         android:text="Đi cafe với bạn" />
 
     <CheckBox
-        android:id="@+id/checkBox4"
+        android:id="@+id/cbNha"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Ở nhà một mình" />
 
     <CheckBox
-        android:id="@+id/checkBox5"
+        android:id="@+id/cbNauAn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:checked="true"
         android:text="Vào bếp nấu ăn" />
 
     <TextView
