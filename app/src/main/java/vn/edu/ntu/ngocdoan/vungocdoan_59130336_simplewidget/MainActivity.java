@@ -59,10 +59,10 @@ public class MainActivity extends AppCompatActivity {
         {
             //Nếu click vào rb Nam
             case R.id.rbNam:
-                hienThi = hienThi + "Giới tính: " + "Nam" + "\n";
+                hienThi = hienThi + "Giới tính: " + "Nam" + "\n";break;
             //Nếu clik vào rb Nữ
             case R.id.rbNu:
-                hienThi = hienThi + "Giới tính: " + "Nữ" + "\n";
+                hienThi = hienThi + "Giới tính: " + "Nữ" + "\n";break;
         }
 
         //Hiển thị sở thích
